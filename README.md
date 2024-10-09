@@ -1,5 +1,5 @@
 # projeto_fecart_libras
-# descrição:
+#descrição:
 #Este projeto consiste em um sistema que utiliza técnicas de visão computacional para reconhecer sinais de LIBRAS e, a partir disso, liberar uma senha para acesso para uma apresentação. O sistema foi desenvolvido em Python e faz uso de bibliotecas avançadas como OpenCV, MediaPipe e Keras.
 
 Funcionalidades Principais:
@@ -31,4 +31,4 @@ O código em Python realiza a configuração do ambiente, a captura de vídeo, o
 #bibliotecas: cv2, mediapipe, keras.models - load_model, numpy, h5py, time, threading
 #material: computado, camera, e suas mãos.
 #para funcionar: baixe todas as bibliotecas, libere a camera.
-# para funcionar tive pesquisar todas as biblotecas, além de ir atrás de um codigo de um user do github que corrigia um problema com a biblioteca do keras_models, e a solução foi usar mais uma biblioteca, a h5py, assim funcionando tudo
+#para funcionar tive pesquisar todas as biblotecas, além de ir atrás de um codigo de um user do github que corrigia um problema com a biblioteca do keras_models, e a solução foi usar mais uma biblioteca, a h5py, assim funcionando tudo
