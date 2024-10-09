@@ -1,11 +1,11 @@
 # projeto_fecart_libras
-#descrição:
+# descrição:
 #Este projeto consiste em um sistema que utiliza técnicas de visão computacional para reconhecer sinais de LIBRAS e, a partir disso, liberar uma senha para acesso para uma apresentação. O sistema foi desenvolvido em Python e faz uso de bibliotecas avançadas como OpenCV, MediaPipe e Keras.
 
-Funcionalidades Principais:
+# Funcionalidades Principais:
 Captura de Imagem em Tempo Real: O sistema abre a câmera do dispositivo para capturar continuamente o vídeo, permitindo o reconhecimento dos sinais realizados pelo usuário.
 
-Reconhecimento de Mãos: Utilizando a biblioteca MediaPipe, o projeto identifica e rastreia a posição das mãos em tempo real. Isso é essencial para a interpretação dos sinais de LIBRAS.
+# Reconhecimento de Mãos: Utilizando a biblioteca MediaPipe, o projeto identifica e rastreia a posição das mãos em tempo real. Isso é essencial para a interpretação dos sinais de LIBRAS.
 
 Modelo de Aprendizado de Máquina: Um modelo previamente treinado foi carregado para classificar os sinais reconhecidos. Este modelo foi desenvolvido utilizando a plataforma Teachable Machine, onde foram coletadas imagens dos sinais correspondentes às letras do alfabeto em LIBRAS.
 
